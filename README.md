@@ -1,5 +1,7 @@
 LIBF Fintech Society Robofunds Competition 2024
 -----------------------------------------------
+
+Join the fintech society! https://chat.whatsapp.com/GdHFMOe1goQ5RtRcYe7ptc
  
 This is the readme file for the Robofund competition 2024, the objective of this competition is to build a model in python to predict market movements. This competition aims to improve skills in python, statistical knowledge and research. 
 
@@ -9,12 +11,11 @@ This file is `README.md` and is plain text so you can open it locally with word,
 
 # Tradable assets
 
-Can trade both the asset and components
+Can trade both the asset and components:
 
-1.	S&P 500 (^GSPC)
-2.	Nasdaq Composite (^IXIC)
-3.	Bitcoin to USD (BTC-USD)
-4.	Ethereum to USD (ETH-USD)
+1.	Nasdaq Composite (^IXIC)
+2.	Bitcoin to USD (BTC-USD)
+3.	Ethereum to USD (ETH-USD)
 
 May trade index but not components:
 
@@ -125,6 +126,7 @@ headers = {"User-Agent": Sample Company Name AdminContact@<sample company domain
 response = requests.get(URL,headers=headers)
 
 # Content is in json format, json.loads() turns it into a python dictionary
+# json is a widely because of it's simplicity and structure
 data = json.loads(response.content)
 
 # Optional: Save file locally for futher use later
@@ -160,15 +162,21 @@ https://www.crummy.com/software/BeautifulSoup/bs4/doc/#
 
 ### Playwright
 
-Automates web browsers and can also be used for webscraping.
+Automates web browsers and can also be used for webscraping. Playwrite has a code generation feature to make things easy.
 
 https://playwright.dev/python/docs/intro
+
+https://playwright.dev/docs/codegen
 
 ## Github
 
 Github has a lot of resources and you can view working examples by just searching and browsing. This repository has a massive list of libaries to use for finance, even for different languages.
 
+Examples:
+
 https://github.com/wilsonfreitas/awesome-quant?tab=readme-ov-file#python
+
+https://github.com/rossant/awesome-math?tab=readme-ov-file#statistics
 
 ### Git?
 
@@ -246,7 +254,7 @@ https://docs.scipy.org/doc/scipy/
 
 ### scikit-learn / statsmodels
 
-Machine learning for python. Contains lots of tools for predictive analysis. 
+Machine learning and regression for python. Contains lots of tools for predictive analysis. 
 
 https://scikit-learn.org/stable/
 
@@ -260,7 +268,7 @@ also see [related projects](https://scikit-learn.org/stable/related_projects.htm
 
 https://matplotlib.org/
 
-Seaborn uses matplotlib but seaborn is more often easier to use
+Seaborn uses matplotlib but seaborn is often easier to use
 
 https://seaborn.pydata.org/
 
@@ -281,3 +289,5 @@ and base your model of in no particular order:
 - Dynamic linear models
 - GARCH
 - Brownian motion
+- Monte carlo simulation
+- Lévy process
