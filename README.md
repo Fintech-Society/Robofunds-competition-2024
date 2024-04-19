@@ -54,7 +54,7 @@ The three main categories your algorithm will be evaluated in for this competiti
 
 There will be only one prize for the overall winner. Winning prize is the total for the team.
 
-The winner will be revealed near the start of the next academic year (date TBD). 
+The winner will be revealed near the start of the next academic year (date TBD) but submissions will be accepted up until **September 4th at 23:59**.
 
 The winning group and selected other groups will be asked to do a presentation. Refusual to do the presentation also means forfeiting the prize, if you have won.
 
@@ -74,11 +74,11 @@ Algorithmic trading employs the use of computers to develop a set of rules to au
 
 Algorithmic traders are rewarded with the liquidity they provide to markets by finding pricing inefficiencies and then buying and selling to correct those prices. This inefficiency what a model aims to find and correct.
 
-A model can be anything such as linear regression (auto regression) from CAPM to asking GPT-4 (neural networks) to make decisions. What matters most is that there is a set of rules to decide when to trade based of the model. 
+A model can be anything such as linear regression from CAPM to asking GPT-4/neural networks to make decisions. What matters most is that there is a set of rules to decide when to trade based of the model with no human intervention.
 
 ## Aren't markets efficient?
 
-According to EMH markets are, however the markets are still able to become irrational either over time or when faced with an event. Markets do not switch from being perfectly rational to completely irrational and they can take on a range of efficiency.
+According to EMH markets are, however the markets are still able to become irrational either over time or when faced with an event. Markets do not switch from being perfectly rational to completely irrational and they can take on a range of efficiency. We look to take advantage of those moments.
 
 ## What is the VIX index?
 
