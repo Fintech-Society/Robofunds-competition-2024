@@ -54,7 +54,7 @@ The three main categories your algorithm will be evaluated in for this competiti
 
 There will be only one prize for the overall winner. Winning prize is the total for the team.
 
-The winner will be revealed near the start of the next academic year (date TBD) but submissions will be accepted up until **September 4th at 23:59**.
+The winner will be revealed near the start of the next academic year (date TBD) but submissions will be accepted up until **September 16th at 23:59**.
 
 The winning group and selected other groups will be asked to do a presentation. Refusual to do the presentation also means forfeiting the prize, if you have won.
 
